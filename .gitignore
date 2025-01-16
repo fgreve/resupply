@@ -4,3 +4,5 @@ data
 rawdata
 docs
 *.xlsx
+*.xlsm
+*.csv
